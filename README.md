@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayyash</h1>
-<h3 align="center">macOS User, PHP Developer<h3>
+<h3 align="center">macOS & Windows User, PHP Developer<h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayyashmumtaz&label=Profile%20views&color=0e75b6&style=flat" alt="ayyashmumtaz" /> </p>
 
@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/xxvnaa" target="blank"><img src="https://img.shields.io/twitter/follow/xxvnaa01?logo=twitter&style=for-the-badge" alt="xxvnaa01" /></a> </p>
 
-- 🌱 I’m currently learning **Codeigniter 4, React Native**
+- 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **Codeigniter 3, PHP, Mysql**
+- 💬 Ask me about **Codeigniter 3, PHP, Mysql, Laravel, JS**
 
-- 📫 How to reach me **ayyashmumtaz2003@gmail.com**
+- 📫 How to reach me **ayyashmumtaz@icloud.com**
 
 - ⚡ Fun fact **suka ngopi atuh boy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/xxvnaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xxvnaa01" height="30" width="40" /></a>
+<a href="https://twitter.com/creamyyrainbow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xxvnaa01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
