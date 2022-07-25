@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/creamyyrainbow" target="blank"><img src="https://img.shields.io/twitter/follow/creamyyrainbow?logo=twitter&style=for-the-badge" alt="creamyyrainbow" /></a> </p>
 
-- 🔭 I’m currently working on **Edukidos Digital Printing App**
+- 🔭 I’m currently working on **CS DEV**
 
 - 🌱 I’m currently learning **Laravel, Flutter**
 
