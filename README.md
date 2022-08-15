@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Laravel, Flutter**
 
-- 💬 Ask me about **PHP, Codeigniter 3, Laravel, JS**
+- 💬 Ask me about **rasa kopi terbaik**
 
 - 📫 How to reach me **ayyashmumtaz@icloud.com**
 
