@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayyash Mumtaz Hafidz</h1>
-<h3 align="center">PHP hardworker, but need sleep if morning come.</h3>
+<h3 align="center">hardworker, but need sleep if morning come.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayyashmumtaz&label=Profile%20views&color=0e75b6&style=flat" alt="ayyashmumtaz" /> </p>
 
