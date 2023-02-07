@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **rasa kopi terbaik**
 
-- 📫 How to reach me **ayyashmumtaz@icloud.com**
+- 📫 How to reach me **ayasdaily.id@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
