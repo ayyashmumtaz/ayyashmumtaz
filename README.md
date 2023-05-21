@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **CS DEV**
 
-- 🌱 I’m currently learning **Laravel, Flutter**
+- 🌱 I’m currently learning **Express.JS, Vue.Js**
 
 - 💬 Ask me about **rasa kopi terbaik**
 
