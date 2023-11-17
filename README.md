@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayyashmumtaz&label=Profile%20views&color=0e75b6&style=flat" alt="ayyashmumtaz" /> </p>
 
-<p align="left"> <a href="https://twitter.com/creamyyrainbow" target="blank"><img src="https://img.shields.io/twitter/follow/creamyyrainbow?logo=twitter&style=for-the-badge" alt="creamyyrainbow" /></a> </p>
 
 - 🔭 I’m currently working on **localhost**
 
