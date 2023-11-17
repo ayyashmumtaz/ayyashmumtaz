@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **localhost**
 
-- 🌱 I’m currently learning **ViteJS**
+- 🌱 I’m currently learning **how to make my mom proud.**
 
 - 💬 Ask me about **rasa kopi terbaik**
 
